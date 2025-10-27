@@ -7,6 +7,8 @@ ventana.geometry("600x400")  # Ancho x Alto
 
 print("Cambios usuario 1.b.3")
 
+print("Cambios usuario 1.2")
+
 # 2. Creación de Widgets
 # --- Formulario de Entrada ---s
 etiqueta_desc = tk.Label(ventana, text="Descripción:")
