@@ -48,7 +48,7 @@ boton_delete.grid(row=2, column=3, padx=10, pady=10)
 etiqueta_lista.grid(row=3, column=0, padx=10, pady=5, sticky="w")
 lista_tareas.grid(row=4, column=0, columnspan=4, padx=10, pady=5, sticky="nsew")
 
-print("Cambios usuario 2")
+print("Cambios usuario 2.b")
 
 # 4. Iniciar el bucle de la aplicación
 ventana.mainloop()
