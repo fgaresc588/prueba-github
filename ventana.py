@@ -5,10 +5,10 @@ ventana = tk.Tk()
 ventana.title("Gestor de Tareas")
 ventana.geometry("600x400")  # Ancho x Alto
 
-print("Cambios usuario 1.b")
+print("Cambios usuario 1.b.2")
 
 # 2. Creación de Widgets
-# --- Formulario de Entrada ---
+# --- Formulario de Entrada ---s
 etiqueta_desc = tk.Label(ventana, text="Descripción:")
 campo_desc = tk.Entry(ventana, width=40)
 
