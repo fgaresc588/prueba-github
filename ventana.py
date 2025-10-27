@@ -9,6 +9,8 @@ print("Cambios usuario 1.b.3")
 
 print("Cambios usuario 1.2")
 
+print("Cambios usuario 2.2")
+
 # 2. Creación de Widgets
 # --- Formulario de Entrada ---s
 etiqueta_desc = tk.Label(ventana, text="Descripción:")
