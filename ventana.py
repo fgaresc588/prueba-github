@@ -5,7 +5,7 @@ ventana = tk.Tk()
 ventana.title("Gestor de Tareas")
 ventana.geometry("600x400")  # Ancho x Alto
 
-print("Cambios usuario 1")
+print("Cambios usuario 1.b")
 
 # 2. Creación de Widgets
 # --- Formulario de Entrada ---
